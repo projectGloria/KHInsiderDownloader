@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+PyQt6
+mutagen
+Pillow
